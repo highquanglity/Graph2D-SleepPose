@@ -1,9 +1,10 @@
 Implementing an effective Graph Convolutional Neural Network for Classification of Human Pose
 [Poster](https://drive.google.com/file/d/1ahU_KRzv1JJVoG-dmYyB639JKrZk_n8h/view?usp=sharing)
-
-# Preparation
-### Install torchlight
-Run `pip install torch `
+<div align="center">
+    <a href="./">
+        <img src="./asset/poster.png" width="40%"/>
+    </a>
+</div>
 
 ### Preprocessing datasets.
 
